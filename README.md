@@ -91,7 +91,7 @@ This removes:
 - `openport`
 - `closeport`
 - `listports`
-
+ 
 No firewall rules are modified during uninstall.
 
 ---
