@@ -8,7 +8,7 @@ It allows you to open, close, list, manage, and **uninstall** firewall rules eas
 ## 🚀 One‑Line Installation
 
 ```bash
-sudo bash <(curl -sSL https://nabeelxd.vercel.app/openport-installer)
+curl -sSL https://nabeelxd.vercel.app/openport-installer | sudo bash
 ```
 
 ---
